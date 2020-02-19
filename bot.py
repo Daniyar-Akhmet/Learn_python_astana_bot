@@ -1,4 +1,5 @@
-# Импортируем нужные компоненты
+﻿# Импортируем нужные компоненты
+
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 import logging
 import settings
