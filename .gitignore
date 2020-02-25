@@ -3,3 +3,4 @@ settings.py
 first_draft.py
 .vscode
 __pycache__
+bot_env
